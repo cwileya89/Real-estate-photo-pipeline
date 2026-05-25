@@ -1,0 +1,43 @@
+# photo-editor has its own git repo and remote
+photo-editor/
+
+# Empty sibling scaffold (per project memory: 6-file skeleton, not in active use)
+realestate-photo-pipeline/
+
+# Python virtualenvs / caches
+**/.venv/
+**/__pycache__/
+**/*.pyc
+
+# Node
+**/node_modules/
+**/.next/
+**/out/
+
+# Training run artifacts
+**/runs/
+**/checkpoints/
+**/*.pt
+**/*.pth
+**/*.safetensors
+
+# Secrets
+**/.env
+**/.env.*.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Dataset binaries are stored separately (see dataset/.gitignore)
+# but keep dataset/README.md, .gitignore, _template/
+
+# Benchmark scratch
+benchmark/_synth_test/
+benchmark/_synth_reports/
+benchmark/reports/
+
+# IDE
+.vscode/
+.idea/
+*.swp

@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+_synth_test/
+_synth_reports/
+reports/

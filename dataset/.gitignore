@@ -1,0 +1,27 @@
+# Image files live on disk, not in git
+*.CR3
+*.CR2
+*.NEF
+*.ARW
+*.DNG
+*.RW2
+*.ORF
+*.RAF
+*.jpg
+*.jpeg
+*.JPG
+*.JPEG
+*.png
+*.PNG
+*.tif
+*.tiff
+*.TIF
+*.TIFF
+*.heic
+*.HEIC
+
+# Keep structure files
+!.gitignore
+!README.md
+!**/meta.json
+!_template/**

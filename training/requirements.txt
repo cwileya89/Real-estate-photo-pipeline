@@ -1,0 +1,15 @@
+# PyTorch with CUDA 12.x for RTX 5070 Ti (Blackwell sm_120).
+# Install via: pip install -r requirements.txt --extra-index-url https://download.pytorch.org/whl/cu124
+torch>=2.5
+torchvision>=0.20
+transformers>=4.46          # SegFormer
+datasets>=3.0
+accelerate>=1.1
+opencv-python>=4.10
+numpy>=1.26,<3
+Pillow>=10
+albumentations>=1.4         # data augmentation
+tensorboard>=2.18
+peft>=0.13                  # LoRA adapters
+einops>=0.8
+tqdm>=4.66
