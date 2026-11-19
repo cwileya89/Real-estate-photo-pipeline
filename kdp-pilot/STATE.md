@@ -8,7 +8,8 @@ Branch: `claude/mg-series-kdp-pilot-q6qsc5`
 |---|---|---|---|
 | V1 | Market research memo + category/keyword rec | ✅ DONE → `research/V1-market-research-memo.md` | ✅ Owner confirmed reposition to ages 7–10 |
 | V2 | 3 series concepts + 3 pen names | ✅ DONE → `research/V2-concepts-and-names.md` | ✅ Owner selected Thornhollow + Jonah Vesper |
-| V3 | Series bible + Book 1 outline + blurb | ✅ DONE → `series-bible/series-bible.md` + `series-bible/book1-outline.md` | **Owner approves + confirms §11 choices** |
+| V2b | Mock first chapters (HP/LOTR steer) | ✅ DONE → `research/V2b-concept-mockups.md` | ✅ Owner chose Direction A (Beastwardens) |
+| V3 | Series bible + Book 1 outline + blurb (REWRITTEN for Beastwardens) | ✅ DONE → `series-bible/series-bible.md` + `series-bible/book1-outline.md` | **Owner approves + confirms §11 choices** |
 | V4 | Book 1 manuscript (8–12k words) | ⬜ | — |
 | V5 | Style lock (char sheet + style ref) + $120 art PASS/FAIL | ⬜ | Owner approves art spend |
 | V6 | Book 1 interior art (1/chapter, 300 DPI) | ⬜ | Report credit cost |
@@ -18,12 +19,12 @@ Branch: `claude/mg-series-kdp-pilot-q6qsc5`
 | V10 | Pilot template + ARC plan + content brief + ads notes | ⬜ | — |
 
 ## Locked decisions
-1. ✅ Positioning: illustrated chapter book / early-MG, ages 7–10, grades 2–4.
-2. ✅ Concept: **Thornhollow / Hollow-friend** → series *Birdie and the Hollow*.
+1. ✅ Positioning: illustrated chapter book / early-MG, ages 7–10, grades 3–5 (~12k words/book).
+2. ✅ Concept: **Direction A — The Beastwardens** (hidden academy + magical lands of creatures, HP/LOTR feel). Hero **Bram Flint** (Arlo Finch collision avoided). Supersedes Birdie/Thornhollow.
 3. ✅ Pen name: **Jonah Vesper** (owner still to verify Amazon author-page/handle free before publish).
 
 ## Open decisions blocking progress
-4. **[V3→V4] Approve series bible + Book 1 outline**, and confirm series-bible §11 choices: protagonist (Birdie, girl, 9 — swappable to boy) · series brand (*Birdie and the Hollow*) · Book 1 title (*The Door in the Tree*) · stewardship thread (keep light / strip).
+4. **[V3→V4] Approve rewritten series bible + Book 1 outline**, and weigh in on series-bible §11: series title (Beastwardens / Wild Wardens / Wardenhold) · Book 1 title (*The Door Behind the Clock*) · hero gender · mother-Warden arc thread · peril level · scale.
 
 ## Hard constraints (do not violate)
 - No art generation before V5 approval. No Book 2/3 art at all this pilot.

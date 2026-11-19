@@ -1,79 +1,79 @@
 # Book 1 Chapter Outline + Back-Cover Blurb
 
-**Series:** *Birdie and the Hollow* (Book One) · **Title:** *The Door in the Tree*
-**Author:** Jonah Vesper · **Specs:** ~10,000–11,000 words · 12 chapters (~850–920 words each) · 1 illustration/chapter · ages 7–10, grades 3–5
-**Rule:** every chapter ends on a pull-forward beat; Ch. 12 hooks Book 2. Read with the series bible (`series-bible/series-bible.md`).
+**Series:** *The Beastwardens* (Book One) · **Title:** *The Door Behind the Clock*
+**Author:** Jonah Vesper · **Specs:** ~11,000–12,000 words · 12 chapters (~950–1,000 each) · 1 illustration/chapter · ages 7–10, grades 3–5
+**Rule:** every chapter ends on a pull-forward beat; Ch. 12 hooks Book 2 (the expedition into the Wild). Read with `series-bible/series-bible.md`. Chapter 1 expands the owner-approved mock opening.
 
 ---
 
 ## Chapter outline (12 chapters)
 
-**1. New Town, Old Woods**
-Birdie, 9, arrives at Gran's cottage on the edge of Thornhollow to stay a year while Mum works far away. She's the new kid, friendless, unpacking into a strange room. At the bottom of Gran's garden stands a huge old hawthorn tree and, past it, woods that feel *watched*. Something small and quick rustles the hedge and is gone. Gran, pouring tea: "The woods remember more than people do." *End hook:* that night, frost spiders across Birdie's window — in June.
-*Illustration:* Birdie at the window, frost-ferns blooming on the glass, the dark tree beyond.
+**1. The Thing Under the Clock Shop**
+*(expands the approved mock)* Bram Flint, 10, lives above Aunt Mildred's clock shop in Draybeck, where no clock ever lies. At midnight he hears crying through the floor — through solid iron. Behind the broken grandfather clock, the thirteenth bell strikes, a door of black wood opens onto a purple-skied forest, and cold old air pours out. **Warden Vane** appears, presses a wriggling smoke-fox kit — **Ash** — into his arms, and a muster-horn sounds beyond the door. *End hook:* "You came on a bad night, Bram Flint. Welcome to the Wardens. Try not to die in your first hour." — and she pulls him through.
+*Illustration:* Bram at the broken clock, black door open, purple forest and quiet giant shapes beyond.
 
-**2. Frost in June**
-The whole street is baffled by summer frost on the grass. While everyone blames the weather, Birdie follows a trail of frost-ferns across the lawn — they lead, melting as the sun climbs, straight to the old hawthorn. In the trunk, where there was only bark yesterday, is a **small door**, leaking cold air and a thread of green light. *End hook:* from inside the tree, a voice — small, frightened — whispers, "Please. *Help.*"
-*Illustration:* close on the little door in the bark, frost curling out, one green eye-glint in the gap.
+**2. The Wrong Side of the Door**
+On the Wild side, a **gaunt-hound** — a shadow-beast that shouldn't be loose — is trying to force its way into the Tame. Vane fights it with her humming glass-blade and is losing track of it in the dark. Bram, terrified, realizes he can *hear exactly where it is*, and calls the strikes that let Vane drive it back through a door and seal it. *End hook:* Vane stares at him — he heard the beast *through iron.* "That shouldn't be possible. Not for a hundred years."
+*Illustration:* Vane mid-swing against the smoke-and-shadow hound; Bram pointing from behind a rock, Ash at his feet.
 
-**3. The Door in the Tree**
-Birdie squeezes through and falls into the **Hollow** — a wild, glowing, impossible world bigger on the inside. She meets **Bramble**, a young elf tangled in his own leaf-cloak, half-frozen and panicking. He begged a little winter from the Frostfell to cool a summer fever in his grandmother — and the spell tore and won't stop. Now cold is pouring into *both* worlds. *End hook:* horns sound in the trees — the grown-up fae are coming, and they do **not** like humans.
-*Illustration:* Birdie's first sight of the Hollow — lantern-lit, mossy, vast — with Bramble reaching for her hand.
+**3. Wardenhold**
+Vane takes him deeper into the Wild to the Keep: **Wardenhold**, a vast lantern-lit fortress-menagerie built around the oldest door, full of Wardens and impossible creatures. Wonder and belonging wash over the lonely boy. He learns what the Wardens are and that he can't simply go home — he has to be judged by the Keeper first. *End hook:* word races ahead of him through the Keep: *the boy who hears through iron is here.*
+*Illustration:* first full view of Wardenhold — towers, bridges, lantern-light, winged shapes wheeling over the gate.
 
-**4. Bramble's Mistake**
-Bramble hides Birdie under his cloak as a patrol passes. In whispers she learns the rules: humans aren't meant to cross; the thresholds are closing one by one; wild magic always has a cost. The only one who can mend a torn spell is **Old Thistle**, the oldest hob, far across the Bramblewood. *End hook:* the single path there crosses the **Pixie Bridge**, and the pixies take a toll no one can pay.
-*Illustration:* the two of them crouched under the glowing cloak, a tall armored fae boot passing inches away.
+**4. The Keeper**
+Ancient **Warden-Keeper Rook** tells Bram the history: two worlds, the Veil that split them, the doors, and the Wardens who guard the balance. Then the hard news — the Veil is **thinning**; doors are opening on their own. Bram's gift is rarer than rare. He may stay, on trial, as a **fledgling**. He's handed to **Nettle**, a sharp, friendly fledgling, to be shown around. *End hook:* a bell rings wrong across the whole Keep — somewhere, another door has just opened by itself.
+*Illustration:* Keeper Rook before a great living model of the Veil, threads of light winking out.
 
-**5. The Pixie Toll**
-At the bridge, three pixies demand their toll: not treasure but *a thing you've never given anyone*. Bramble has no idea; Birdie, watching how the pixies trade, solves it with a human trick — she gives them her **secret** (that she's lonely, that she's scared she'll never fit in), which no one has ever heard. The pixies, delighted, let them pass. *First proof Birdie's cleverness, not magic, is the hero tool.* *End hook:* they reach Thistle's door — but the frost beat them there. The old hob is frozen solid.
-*Illustration:* three spindly pixies on the bridge rail, Birdie leaning in to whisper.
+**5. Fledgling**
+Wonder-and-training chapter: beast-lore, door-craft, the bonded companions; Ash refuses to leave Bram's side; rival fledgling **Corvin** sneers at "the iron boy." Bram and Nettle become real friends. *End hook:* Bram overhears two Wardens arguing in a stairwell — the thinning is worse than anyone admits, and some doors are being opened *from the inside.*
+*Illustration:* fledglings and their odd companions in the training yard under the purple sky.
 
-**6. Old Thistle**
-Birdie and Bramble thaw Thistle the slow way (warm hands, not magic — only a Hollow-friend's touch can reach frozen magic, and Birdie's hands don't hurt from it). Thistle wakes grumpy and suspicious of the human — then goes still when he sees her bare the frozen spell without flinching. *End hook:* "Only one kind of person can do that," Thistle says. "And there hasn't been one of *those* in a long, long time."
-*Illustration:* tiny ancient hob in a mossy chair, ice cracking off his beard, glaring up at Birdie.
+**6. The Menagerie**
+Nettle shows Bram the creature-wards — the delight of a hundred magical beasts. Ash leads Bram to a **sealed door** at the Keep's heart that feels *wrong*; he hears something behind it that shouldn't be there. *End hook:* a **cloaked figure** is standing at that sealed door — and is simply *gone* the instant Bram blinks.
+*Illustration:* the great menagerie hall, cages and roosts of fantastical creatures, Ash tugging Bram toward a shadowed door.
 
-**7. The Weft**
-Thistle explains the hard truth: Bramble's spell tore so easily because the whole Hollow is weakening — the doors have been closing for a generation, since the last **Hollow-friend** disappeared. He shows Birdie **the Weft**, a living map of light woven across the ceiling of his burrow — and most of it has gone dark. To mend the tear they must carry the borrowed winter back to the **Frostfell** and tie it off at the source. *End hook:* outside, the leak has become a rising storm of cold; they have until it reaches the Bramblewood.
-*Illustration:* the Weft — a glowing map-web overhead, whole regions snuffed out to grey.
+**7. The Iron Bell**
+Bram tells Vane what he saw; as a boy on trial, he's half-believed. He and Nettle investigate the sealed door and find a **mark** scratched into the iron — proof a door was opened *deliberately*. The gaunt-hound from the first night wasn't a stray. It was *let through*. *End hook:* the marks point to where the next door will open — back in the Tame, in **Draybeck**, at the clock shop.
+*Illustration:* close on the strange mark gouged into the black iron door.
 
-**8. Into the Frostfell**
-The journey into the coldest edge of the Hollow: wonder turning to danger, breath clouding, the lanterns thinning. On the way, Birdie and Bramble trade stories and realize they're the same — both lonely, both trying to help someone they love. Their friendship becomes real. They reach the **wound** in the world where winter is pouring out. *End hook:* to close it, someone must walk *into* the heart of the cold — and Bramble's magic isn't nearly strong enough.
-*Illustration:* two small figures at the mouth of a vast white canyon, wind tearing at them.
+**8. Back Through the Door**
+Bram and Nettle (and Ash) cross back into the Tame — the rules and strangeness of crossing — and race to Draybeck, terrified for Aunt Mildred. The clock shop is wrong: cold, silent, every clock stopped. Something has already come through. *End hook:* the beast on the stairs is far bigger than the gaunt-hound — and Vane is a world away.
+*Illustration:* the dark clock shop at night, every pendulum frozen, a huge shape on the stair.
 
-**9. The Heart of the Cold**
-Birdie understands: *she* can go in, because a Hollow-friend isn't harmed by broken magic. Fear and doubt — she almost turns back — then goes. Inside the stillness she finds the torn spell *and* something worse: the tear didn't just happen. The magic is being **pulled**, a thin dark thread drawing it away toward somewhere far off. *(Series arc foreshadowed.)* *End hook:* she can mend the tear — but the dark thread is something far bigger, and it's still pulling.
-*Illustration:* Birdie small inside a cathedral of ice, one dark thread snaking out of the glowing tear.
+**9. What the Clocks Heard**
+Climax build. On his home ground, Bram turns the clock shop into a trap — he knows every false echo, every dead space in all that iron — and with Nettle and Ash, uses sound and cleverness (not strength) to herd the beast. *End hook:* they corner it at the back door — and the **Shrike** is waiting, calm, unsurprised. The Shrike *wanted* Bram to come.
+*Illustration:* Bram small among towering clocks, head tilted, listening; Ash bristling smoke.
 
-**10. The Frost-Knot**
-Climax. Birdie mends the tear by tying it off the way Gran taught her to end a knot in wool — a human trick that wild magic understands — with Bramble feeding her the last of his strength. The winter reverses; frost retreats from the Frostfell, the Bramblewood, and, back home, from every window in Thornhollow at once. *Big satisfying payoff.* *End hook:* as the Weft brightens a little, one far-off patch of it flickers — the **Pixie Night-Market** — and goes dark.
-*Illustration:* Birdie's hands pulling a glowing knot tight, frost spiraling back into the tear.
+**10. The Shrike**
+The confrontation (age-safe: words and near-misses, no gore). The Shrike says the Veil was a mistake, that the two worlds were meant to be one, and that a boy who hears through iron belongs to *both* sides — so Bram should choose the Shrike's. Bram refuses; a scramble, and the Shrike slips away, driving the great beast back through the door as a parting gift. *End hook:* at the threshold the Shrike pauses and says, "Ask them what happened to your *mother*, iron boy." — and is gone.
+*Illustration:* the cloaked Shrike silhouetted in a doorway of cold light, one hand raised.
 
-**11. Hollow-friend**
-Resolution. Old Thistle names Birdie the first **Hollow-friend** in a generation and gives her a token: a sprig of hawthorn that stays green and lets her cross whenever she needs. For the first time since moving, Birdie belongs somewhere — and has a friend, Bramble, waiting on the other side. She climbs home through the tree. *End hook:* Gran sees the green sprig in Birdie's hand, sets down her tea very carefully, and says, "So. It's you now, is it." Gran *knows.*
-*Illustration:* Thistle pressing the green sprig into Birdie's palm, Bramble grinning beside her.
+**11. The Iron Boy**
+Aftermath at Wardenhold. Bram is believed now, and named a true fledgling Warden — given his Warden token. Belonging, at last: Ash, Nettle, a place that's his. Quietly, Keeper Rook confirms the Shrike's barb: **Bram's mother was a Warden**, who vanished years ago chasing the very thinning now spreading. *End hook:* Bram decides — he's going to find out what happened to her.
+*Illustration:* Rook pressing a worn Warden token into Bram's hand, Ash on his shoulder, Nettle grinning.
 
-**12. The Door Stays Open**
-Denouement + series hook. Life in Thornhollow is warmer now; the door in the tree stays open for Birdie, and she and Bramble are friends across two worlds. But Thistle's warning won't leave her: the doors are still closing, something is still pulling the magic away — and the Weft showed the Night-Market going dark. Bramble arrives at the hawthorn, breathless: the pixies are saying their magic is being *stolen*, and they're asking for the new Hollow-friend by name. *Final line hooks Book 2.*
-*Illustration:* Birdie at the open tree-door at dusk, raincoat on, stepping toward Bramble and the lantern-lit Hollow beyond.
+**12. The Thinning**
+Denouement + series hook. The Keep counts the damage: the thinning is spreading, the Shrike is loose with secrets, the Wild is stirring awake. But Bram isn't the lonely clock-shop boy anymore — he's a Warden with a purpose. At the great map of the Wild, a far region burns bright with failing doors: the **Ashfell Mountains**, fire-drake country. Vane shoulders her pack. *Final line:* "Get some sleep, iron boy. We ride for the Ashfell at dawn." *(Hooks Book 2 — the first expedition into the wider magical lands.)*
+*Illustration:* Bram at the great map table, Ash beside him, a vast unexplored magical world spread out ahead.
 
 ---
 
 ## Back-cover blurb (Book 1)
 
-> **Some doors were never meant for grown-ups.**
+> **Some doors were built to stay shut. Bram just found one that didn't.**
 >
-> Nine-year-old Birdie Hazelwood didn't want to move to the edge of the old woods. She didn't want a whole year at Gran's, friendless and far from home. And she *really* didn't want frost on her window — in the middle of June.
+> Ten-year-old Bram Flint has a strange talent: he can *hear* things no one else can — a whisper behind a wall, a lie inside a ticking clock. So when something starts crying beneath his aunt's clock shop at midnight, Bram is the only one who hears it… and the only one who finds the little black door hidden behind a broken grandfather clock.
 >
-> But the frost leads Birdie to a tiny door in an old hawthorn tree, and the door leads somewhere impossible: **the Hollow**, a hidden world of elves, pixies, and wilder folk, where magic is as real as weather — and just as easy to break. One frightened young elf has torn a spell that's leaking winter into *both* worlds, and the only person who can mend it is a **Hollow-friend**: the rare human who can cross between.
+> On the other side is **the Wild**: a vast, lantern-lit world of beasts and wonders, guarded by the **Beastwardens** — an ancient order that keeps the border between our world and theirs. They've never met a child who can hear through solid iron. They've never needed one more.
 >
-> There hasn't been one for a very long time. Until now.
+> Because the border is failing. Doors are opening on their own, dangerous things are slipping through, and someone *wants* it that way. If Bram can't learn to be a Warden fast — the whole world could come apart at the seams.
 >
-> *The Door in the Tree* is the first book in **Birdie and the Hollow**, a magical illustrated adventure series for readers 7–10. Perfect for fans of hidden worlds, brave kids, and friends you'd cross a world to find.
+> *The Door Behind the Clock* is the first book in **The Beastwardens**, an illustrated fantasy-adventure series for readers 7–10. For every kid who ever wished the magic was real — and just on the other side of the door.
 
-*(~150 words. Final metadata blurb may trim to ~120 for Amazon above-the-fold.)*
+*(~175 words; Amazon metadata blurb may trim to ~120 above the fold.)*
 
 ---
 
 ## Checkpoint — V3 complete. STOP for owner approval.
-**Delivered:** series bible (`series-bible/series-bible.md`) + this Book 1 outline + back-cover blurb.
-**Approve to proceed to V4 (Book 1 full manuscript).** Please also confirm the four open choices in series-bible §11: protagonist (Birdie, girl, 9) · series brand (*Birdie and the Hollow*) · Book 1 title (*The Door in the Tree*) · the light stewardship thread (keep/strip). Any changes are cheapest to make now, before 11k words are drafted.
+**Delivered:** rewritten series bible (`series-bible/series-bible.md`) + this Book 1 outline + back-cover blurb for **The Beastwardens**.
+**Approve to proceed to V4 (full ~12k-word Book 1 manuscript).** Please also weigh in on the six open choices in series-bible §11 — especially the **series title** (Beastwardens / Wild Wardens / Wardenhold), **Book 1 title**, and that you're comfortable with the **epic-but-safe peril level** for ages 7–10. Changes are far cheaper now than after 12k words are drafted.
