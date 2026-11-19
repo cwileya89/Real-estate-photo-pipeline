@@ -19,7 +19,7 @@ Branch: `claude/mg-series-kdp-pilot-q6qsc5`
 
 ## Open decisions blocking progress
 1. ✅ **[V1→V2] Positioning:** CONFIRMED — illustrated chapter book / early-MG, ages 7–10, grades 2–4.
-2. **[V2→V3] Concept selection:** owner picks Concept 1 (Last Little Monster) / 2 (Worst Dragon, recommended) / 3 (Impossible Case Club).
+2. **[V2→V3] Concept selection (REVISED — owner steered to magical/fae lane):** owner picks LEAD *Thornhollow* (Hollow-friend explorer, recommended) / ALT A *Wayside Sanctuary* (magical-creature caretaker) / ALT B *The Uncharted* (half-fae mapmaker). Original Monster/Dragon/Mystery concepts superseded.
 3. **[V2→V3] Pen name:** owner picks Tansy Webb / Jonah Vesper / Posy Lane / Wren Castellan — then verifies Amazon author page + handle/domain are free before lock.
 
 ## Hard constraints (do not violate)

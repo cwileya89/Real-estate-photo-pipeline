@@ -58,9 +58,36 @@ Human-sounding, zero AI/Vale branding, distinctive enough to own an Amazon autho
 
 ---
 
-## Checkpoint — V2 complete. STOP.
+---
+
+# V2 REVISION — Magical-creature world (owner steer)
+
+Owner directed the concept toward **mythical/magical**: elves, fairies, fae folk and *their expansive abilities and world*. The three concepts above are superseded (kept for decision history). The three framings below all live in that lane. All reuse the V1 winning patterns and are tuned to stay inside the $120 art ceiling.
+
+**Comp proof for this lane (verified):** *Rainbow Magic* (Daisy Meadows/Orchard — 40M+ copies, **one fairy + one ability per book**, 300+ numbered collectible titles) and Scholastic Branches' *Pixie Tricks* validate the "one magical folk + one ability per book" engine; *Isadora Moon* proves fae + a **single distinctive art identity** sells hard. The *indie* fae space (Tinsey Clover, Willow Tree Wood, Fairies of Sunflower Grove) is fragmented with **no dominant self-pub series** — the opening.
+
+**Art-cost discipline baked in (the ceiling risk of "many creatures"):** a varied magical world means more unique creature designs = more credits + more consistency risk. Every framing below therefore **locks a tiny recurring cast** (protagonist + 1 fae companion + 1 hub location) that carries most chapters, and spotlights **ONE major new folk design per book** plus simple reused backgrounds. The *series* feels expansive (new folk accumulate); each *book* only pays for ~1–2 new designs.
+
+## LEAD (recommended) — *Thornhollow* (working) · the "Hollow-friend" explorer
+- **Noun/niche:** fae / hidden magical world · **Tone:** warm wonder + light adventure, gentle humor · **Engine:** new realm + new folk + new ability each book; a collectible "token" from each folk (Rainbow-Magic-style completion hook)
+- **Premise:** Folded invisibly into an ordinary town is **the Hollow** — a vast hidden world of fae folk (elves, sprites, brownies, pixies, hobs, moss-giants, will-o'-wisps), each kind with its own magic. A kid discovers they are a **Hollow-friend**: the rare human in a generation who can cross between worlds. Apprenticed to a grumpy old hob (and a nervous young elf guide), they explore the realm one corner at a time.
+- **Book 1 hook:** Impossible things start leaking into town — frost in June, a door in a tree that wasn't there yesterday, a street that loops back on itself. Following them, the kid slips into the Hollow, where a young elf's half-finished spell is bleeding winter into the human world. To undo it they must cross three realms and earn the name Hollow-friend. *(Ends: named Hollow-friend and given a living map that reveals a new realm — with a warning that the doors between worlds are beginning to close.)*
+- **Book 2 (one-line):** The pixie night-market goes dark when someone starts **stealing fae magic**; the kid tracks the theft deeper into the Hollow than any human has gone.
+- **Book 3 (one-line):** The doors between worlds begin sealing for good, and the kid must find the one **wild magic** that keeps both open — and decide what they're willing to give up for it.
+- **Why it fits the steer + the data:** delivers the "expansive abilities and world" the owner asked for (many folk, many magics, a map that grows) while each 8–12k-word book stays small. Engine = Rainbow Magic/Pixie Tricks proven. Parent value: **imagination + kindness/helping + light nature-stewardship**. Art: 2 locked leads (kid + elf guide) + a recurring Hollow-gate hub; one spotlight folk per book. The elf guide doubles as a **cover mascot** for series branding.
+- **KDP fit:** Juvenile Fiction › Fantasy & Magic; Fairies & Elves; Mythical adjacent (narrow, winnable long-tail).
+
+## ALT A — *The Wayside Sanctuary* (working) · caretaker of magical creatures
+- Kid apprentices at a hidden **sanctuary/infirmary for magical creatures** on the border of the fae realm. Each book a new lost or hurt magical creature (with its ability) arrives and must be healed and returned home. **Warmest, clearest episodic engine, best cover creatures** (Fabled Stables × Rainbow Magic). Parent value: care/empathy + nature. Trades a little of the "expansive world/adventure" feel for maximum heart and the cheapest, cleanest "one creature per book" loop.
+
+## ALT B — *The Uncharted* (working) · the half-fae mapmaker
+- Kid is **part-fae**, apprenticed to chart the unmapped magical world; each book charts a new realm and its folk. Most "expansive abilities & world" forward and the most adventure-leaning. **Differentiation risk:** half-fae protagonist sits near *Isadora Moon* — mitigated by the explorer/mapmaker role and a many-folk (not single-vibe) world.
+
+**My lean:** LEAD (*Thornhollow*). It is the truest fit to "expansive abilities and world," keeps art ceiling-safe with 2 locked leads, and has the strongest collectible/completion hook for KU read-through. ALT A if you want to prioritize warmth + the simplest possible production loop; ALT B if you want adventure/exploration front and center.
+
+## Checkpoint — V2 (revised). STOP.
 **Owner selects both:**
-1. **Concept** — 1 (*Last Little Monster*), 2 (*Worst Dragon*, recommended), or 3 (*Impossible Case Club*).
-2. **Pen name** — Tansy Webb / Jonah Vesper / Posy Lane / Wren Castellan.
+1. **Concept framing** — LEAD *Thornhollow* (recommended) / ALT A *Wayside Sanctuary* / ALT B *The Uncharted*. (Working titles — final title set in V3.)
+2. **Pen name** — Tansy Webb / Jonah Vesper / Posy Lane / Wren Castellan (all verified clean; confirm Amazon author-page + handle/domain free before lock).
 
 On selection I proceed to V3: series bible (protagonist, world, recurring cast, 3-book arc) + Book 1 chapter outline (10–15 chapters) + back-cover blurb, written to a repo file.
