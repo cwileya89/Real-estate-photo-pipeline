@@ -23,8 +23,12 @@ Branch: `claude/mg-series-kdp-pilot-q6qsc5`
 2. ✅ Concept: **Direction A — The Beastwardens** (hidden academy + magical lands of creatures, HP/LOTR feel). Hero **Bram Flint** (Arlo Finch collision avoided). Supersedes Birdie/Thornhollow.
 3. ✅ Pen name: **Jonah Vesper** (owner still to verify Amazon author-page/handle free before publish).
 
-## Open decisions blocking progress
-4. **[V3→V4] Approve rewritten series bible + Book 1 outline**, and weigh in on series-bible §11: series title (Beastwardens / Wild Wardens / Wardenhold) · Book 1 title (*The Door Behind the Clock*) · hero gender · mother-Warden arc thread · peril level · scale.
+## Locked decisions (cont.)
+4. ✅ Size: **Option ① — illustrated chapter book, ~11–12k words, ages 7–9, ~12 illustrations** (Dragon Masters scale, NOT Wings-of-Fire scale). Fast illustrated loop preserved.
+5. Defaults set (veto before V4): series title *The Beastwardens* · Book 1 *The Door Behind the Clock* · hero Bram Flint (boy, 10) · keep mother-Warden arc · epic-but-safe peril.
+
+## Open decision blocking progress
+6. **[V3→V4] Final go to draft Book 1 manuscript** (or veto any default in #5). Series bible + outline otherwise approved-pending-go.
 
 ## Hard constraints (do not violate)
 - No art generation before V5 approval. No Book 2/3 art at all this pilot.

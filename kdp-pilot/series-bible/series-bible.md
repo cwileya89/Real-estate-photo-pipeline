@@ -8,8 +8,9 @@
 | Author (pen name) | **Jonah Vesper** (owner to confirm Amazon author-page/handle free before lock) |
 | Imprint | Vale Studio (back-matter only; never on the author line) |
 | Concept | Direction A — hidden academy + magical lands of creatures (HP-structural, chosen in V2b) |
-| Positioning | Illustrated chapter book / early-MG · **ages 7–10, grades 3–5** (proceeding at pilot scale; owner may elect to scale up) |
-| Per book | ~11,000–12,000 words (top of the 8–12k spec, for epic feel) · 12–14 chapters · **1 illustration per chapter** · cliffhanger chapter ends |
+| Positioning | **LOCKED (Option ①):** Illustrated chapter book · **ages 7–9, grades 3–5 reading level** · *Dragon Masters / Beast Quest / Beastopia* scale (not Wings-of-Fire scale) |
+| Per book | **~11,000–12,000 words** (top of the 8–12k spec) · 12 chapters · **1 illustration per chapter (~12)** · cliffhanger chapter ends |
+| Craft note (from size lock) | At this length, deliver the epic *feel* through wonder + momentum, NOT plot complexity. Keep the machinery simple; let the creatures, the Keep, and Ash carry the awe. One clear problem per book. |
 | Format | KU-enrolled ebook + 6×9 paperback · numbered series |
 | Pilot scope | Book 1 fully produced · Book 2 manuscript · Book 3 outline |
 
@@ -85,10 +86,10 @@ The "kids + magical creatures + hidden world" shelf is **crowded**: Wilderlore, 
 - Book 1 outline + blurb → `series-bible/book1-outline.md` · Market basis → `research/V1-market-research-memo.md` · Concept path → `research/V2-concepts-and-names.md`, `research/V2b-concept-mockups.md`
 - 2026-11-19 — Bible **replaced**: pivoted from *Birdie and the Hollow* to **The Beastwardens** (Direction A, owner-selected). Pen name Jonah Vesper. Hero renamed Bram Flint (Arlo Finch collision avoided).
 
-## 11. Open choices flagged for owner (confirm at V3 gate)
-1. **Series title:** *The Beastwardens* (descriptive, but "Beast-" shelf is crowded) vs **The Wild Wardens** (more ownable, says guardians + wild) vs **Wardenhold** (distinctive stronghold name). 
-2. **Book 1 title:** *The Door Behind the Clock* (recommended) vs *The Thirteenth Door*.
-3. **Hero:** Bram Flint, boy, 10 (swappable to a girl — fae/creature readership skews girl, but the chosen mock is a boy; say the word).
-4. **Mother-Warden legacy thread** (§3, §7): keep (recommended — it powers the 3-book arc) or drop for a lighter standalone feel.
-5. **Peril level:** epic-but-safe (menace, bloodless, "try not to die in your first hour" as bravado) — confirm comfortable for ages 7–10, or dial down.
-6. **Scale:** still proceeding ages 7–10 / ~12k illustrated. Switch to stretch/true-MG only if you say so (changes everything downstream).
+## 11. Choices — defaults locked unless owner vetoes before V4 drafting
+1. **Series title:** → **The Beastwardens** (owner responded well to it). Note: "Beast-" shelf is crowded; keyword strategy compensates. Alts if wanted: *The Wild Wardens*, *Wardenhold*.
+2. **Book 1 title:** → **The Door Behind the Clock**.
+3. **Hero:** → **Bram Flint, boy, 10.** (Swappable to a girl.)
+4. **Mother-Warden legacy thread:** → **Keep** (powers the 3-book arc).
+5. **Peril level:** → **epic-but-safe** (menace, bloodless, "try not to die in your first hour" as bravado).
+6. **Scale:** ✅ **LOCKED — Option ①** (~12k words, ages 7–9, ~12 illustrations). Dragon Masters scale; keep plot simple (see craft note at top).
