@@ -7,8 +7,8 @@ Branch: `claude/mg-series-kdp-pilot-q6qsc5`
 | V | Deliverable | Status | Gate |
 |---|---|---|---|
 | V1 | Market research memo + category/keyword rec | ✅ DONE → `research/V1-market-research-memo.md` | ✅ Owner confirmed reposition to ages 7–10 |
-| V2 | 3 series concepts + 3 pen names | ✅ DONE → `research/V2-concepts-and-names.md` | **Owner selects concept + name** |
-| V3 | Series bible + Book 1 outline + blurb | ⬜ | Owner approves |
+| V2 | 3 series concepts + 3 pen names | ✅ DONE → `research/V2-concepts-and-names.md` | ✅ Owner selected Thornhollow + Jonah Vesper |
+| V3 | Series bible + Book 1 outline + blurb | ✅ DONE → `series-bible/series-bible.md` + `series-bible/book1-outline.md` | **Owner approves + confirms §11 choices** |
 | V4 | Book 1 manuscript (8–12k words) | ⬜ | — |
 | V5 | Style lock (char sheet + style ref) + $120 art PASS/FAIL | ⬜ | Owner approves art spend |
 | V6 | Book 1 interior art (1/chapter, 300 DPI) | ⬜ | Report credit cost |
@@ -17,10 +17,13 @@ Branch: `claude/mg-series-kdp-pilot-q6qsc5`
 | V9 | Book 2 manuscript + Book 3 outline (NO ART) | ⬜ | — |
 | V10 | Pilot template + ARC plan + content brief + ads notes | ⬜ | — |
 
+## Locked decisions
+1. ✅ Positioning: illustrated chapter book / early-MG, ages 7–10, grades 2–4.
+2. ✅ Concept: **Thornhollow / Hollow-friend** → series *Birdie and the Hollow*.
+3. ✅ Pen name: **Jonah Vesper** (owner still to verify Amazon author-page/handle free before publish).
+
 ## Open decisions blocking progress
-1. ✅ **[V1→V2] Positioning:** CONFIRMED — illustrated chapter book / early-MG, ages 7–10, grades 2–4.
-2. **[V2→V3] Concept selection (REVISED — owner steered to magical/fae lane):** owner picks LEAD *Thornhollow* (Hollow-friend explorer, recommended) / ALT A *Wayside Sanctuary* (magical-creature caretaker) / ALT B *The Uncharted* (half-fae mapmaker). Original Monster/Dragon/Mystery concepts superseded.
-3. **[V2→V3] Pen name:** owner picks Tansy Webb / Jonah Vesper / Posy Lane / Wren Castellan — then verifies Amazon author page + handle/domain are free before lock.
+4. **[V3→V4] Approve series bible + Book 1 outline**, and confirm series-bible §11 choices: protagonist (Birdie, girl, 9 — swappable to boy) · series brand (*Birdie and the Hollow*) · Book 1 title (*The Door in the Tree*) · stewardship thread (keep light / strip).
 
 ## Hard constraints (do not violate)
 - No art generation before V5 approval. No Book 2/3 art at all this pilot.
